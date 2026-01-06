@@ -1,2 +1,18 @@
-# cloud-engineer-journey
-My journey to becoming a job-ready Cloud Engineer using AWS, Linux, and DevOps.
+
+Cloud Engineer Training Journey
+
+Goal:
+To become a job-ready Cloud Engineer with real-world AWS, Linux, and DevOps skills.
+
+Rules:
+- Learn fundamentals properly
+- Build real systems
+- Document everything
+- No shortcuts
+
+Start Date:
+[Put today’s date]
+
+Weekly Commitment:
+[Put an honest number of hours]
+
