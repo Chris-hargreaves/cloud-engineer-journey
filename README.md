@@ -11,8 +11,8 @@ Rules:
 - No shortcuts
 
 Start Date:
-[Put today’s date]
+06/01/2026
 
 Weekly Commitment:
-[Put an honest number of hours]
+15
 
